@@ -13,51 +13,35 @@
 
 ---
 
-<h2 align="center">⚡ Completed Stack & Live Progress Bars</h2>
+<h2 align="center">⚡ Circular Animated Skill Gauges</h2>
 
 <p align="center">
-  <!-- Python: Circular Icon + Animated Radial Progress -->
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" alt="Python" />
-  </a>
-  <br/>
-  <img src="https://geps.dev/progress/80?dangerColor=3776AB&warningColor=3776AB&successColor=00FF66" alt="Python 80%" width="320" />
+  <!-- Python (80%) Radial Badge -->
+  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/python-80.gif" width="130" alt="Python 80%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- C++ (85%) Radial Badge -->
+  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/cpp-85.gif" width="130" alt="C++ 85%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- SQL / Database (75%) Radial Badge -->
+  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/sql-75.gif" width="130" alt="SQL 75%" />
 </p>
 
 <p align="center">
-  <!-- C++: Circular Icon + Animated Radial Progress -->
-  <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" alt="C++" />
-  </a>
-  <br/>
-  <img src="https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00FF66" alt="C++ 85%" width="320" />
+  <!-- Linux (80%) Radial Badge -->
+  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/linux-80.gif" width="130" alt="Linux 80%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Networking (70%) Radial Badge -->
+  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/network-70.gif" width="130" alt="Networking 70%" />
 </p>
 
 <p align="center">
-  <!-- SQL: Circular Icon + Animated Radial Progress -->
-  <a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="120" alt="SQL" />
+  <!-- Interactive Circular Card (SVG Ring Gauge) -->
+  <a href="https://github.com/Source-Ze">
+    <img src="https://holopin-badges.vercel.app/api/badge/python?percent=80&theme=dark" width="140" alt="Python Circular Gauge" />
+    <img src="https://holopin-badges.vercel.app/api/badge/cpp?percent=85&theme=dark" width="140" alt="C++ Circular Gauge" />
+    <img src="https://holopin-badges.vercel.app/api/badge/postgres?percent=75&theme=dark" width="140" alt="SQL Circular Gauge" />
+    <img src="https://holopin-badges.vercel.app/api/badge/linux?percent=80&theme=dark" width="140" alt="Linux Circular Gauge" />
   </a>
-  <br/>
-  <img src="https://geps.dev/progress/75?dangerColor=4479A1&warningColor=4479A1&successColor=00FF66" alt="SQL 75%" width="320" />
-</p>
-
-<p align="center">
-  <!-- Linux & Bash: Circular Icon + Animated Radial Progress -->
-  <a href="https://www.linux.org">
-    <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" width="120" alt="Linux & Bash" />
-  </a>
-  <br/>
-  <img src="https://geps.dev/progress/80?dangerColor=FCC624&warningColor=FCC624&successColor=00FF66" alt="Linux 80%" width="320" />
-</p>
-
-<p align="center">
-  <!-- Networking: Circular Icon + Animated Radial Progress -->
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=net&theme=dark" width="65" alt="Networking" />
-  </a>
-  <br/>
-  <img src="https://geps.dev/progress/70?dangerColor=005596&warningColor=005596&successColor=00FF66" alt="Networking 70%" width="320" />
 </p>
 
 ---
