@@ -13,9 +13,56 @@
 
 ---
 
-## 🗺️ Completed Skillset & Mindmap
+## ⚡ Technical Skills & Interactive Progress
 
-Below is a visual mindmap of the technologies and domains I have completed:
+<p align="center">
+  <!-- Python Progress Circle (80%) -->
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" alt="Python" />
+  </a>
+  <br/>
+  <img src="https://geps.dev/progress/80?dangerColor=3776AB&warningColor=3776AB&successColor=00FF66" alt="Python Progress" width="300" />
+</p>
+
+<p align="center">
+  <!-- C++ Progress Circle (85%) -->
+  <a href="https://isocpp.org">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" alt="C++" />
+  </a>
+  <br/>
+  <img src="https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00FF66" alt="C++ Progress" width="300" />
+</p>
+
+<p align="center">
+  <!-- SQL / Database Progress Circle (75%) -->
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="110" alt="Databases" />
+  </a>
+  <br/>
+  <img src="https://geps.dev/progress/75?dangerColor=4479A1&warningColor=4479A1&successColor=00FF66" alt="SQL Progress" width="300" />
+</p>
+
+<p align="center">
+  <!-- Linux & Bash Progress Circle (80%) -->
+  <a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" width="110" alt="Linux" />
+  </a>
+  <br/>
+  <img src="https://geps.dev/progress/80?dangerColor=FCC624&warningColor=FCC624&successColor=00FF66" alt="Linux Progress" width="300" />
+</p>
+
+<p align="center">
+  <!-- Networking Progress Circle (70%) -->
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=net&theme=dark" width="60" alt="Networking" />
+  </a>
+  <br/>
+  <img src="https://geps.dev/progress/70?dangerColor=005596&warningColor=005596&successColor=00FF66" alt="Networking Progress" width="300" />
+</p>
+
+---
+
+## 🗺️ Completed Skillset & Mindmap
 
 ```mermaid
 mindmap
