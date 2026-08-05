@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+%26+Linux+Enthusiast;Python+%26+C%2B%2B+Developer;Competitive+Programmer;Building+Tools+%26+Network+Labs&center=true&width=500&height=50&color=00FF66&vcenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmed's+Workspace!;Offensive+Security+%26+Linux+Admin;C%2B%2B+Problem+Solver+%7C+Codeforces;Python+%26+Database+Automation&center=true&width=550&height=50&color=00FF66&vcenter=true&size=22" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,17 +13,30 @@
 
 ---
 
-### 👨‍💻 About Me
+## 🗺️ Completed Skillset & Mindmap
 
-```yaml
-Name: Ahmed
-Location: Egypt 🇪🇬
-Focus_Areas:
-  - Cybersecurity & Offensive Security
-  - Linux Systems Administration & Automation
-  - Network Architecture & Packet Analysis
-Core_Skills:
-  - Problem Solving in C++
-  - Database Management & SQL Queries
-  - Scripting & Tooling with Python
-Status: Building tools, solving bugs, and exploring network protocols.
+Below is a visual mindmap of the technologies and domains I have completed:
+
+```mermaid
+mindmap
+  root((Ahmed Adel))
+    Completed Stack
+      Problem Solving
+        C++
+        Data Structures
+        Algorithms
+      Data Architecture
+        SQL
+        Relational Databases
+      Core Operating Systems
+        Linux Administration
+        Bash Scripting
+        Standard Streams & I/O
+      Network Engineering
+        Network Fundamentals
+        Protocol Analysis
+        Python Automation
+    Current Focus
+      Offensive Security
+        Network Auditing & Traffic Analysis
+        Custom Tools Development
