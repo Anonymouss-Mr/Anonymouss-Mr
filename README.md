@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmed's+Workspace!;Offensive+Security+%26+Linux+Admin;C%2B%2B+Problem+Solver+%7C+Codeforces;Python+%26+Database+Automation&center=true&width=550&height=50&color=00FF66&vcenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E_Ahmed_Adel_Workspace;%3E_Cybersecurity_%26_Network_Auditing;%3E_C%2B%2B_Problem_Solver_%7C_Codeforces;%3E_Linux_SysAdmin_%26_Python_Automation&center=true&width=600&height=50&color=00FF66&vcenter=true&size=22" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,59 +11,55 @@
   </a>
 </p>
 
----
-
-<h2 align="center">⚡ Circular Animated Skill Gauges</h2>
-
 <p align="center">
-  <!-- Python (80%) Radial Badge -->
-  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/python-80.gif" width="130" alt="Python 80%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- C++ (85%) Radial Badge -->
-  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/cpp-85.gif" width="130" alt="C++ 85%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- SQL / Database (75%) Radial Badge -->
-  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/sql-75.gif" width="130" alt="SQL 75%" />
-</p>
-
-<p align="center">
-  <!-- Linux (80%) Radial Badge -->
-  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/linux-80.gif" width="130" alt="Linux 80%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Networking (70%) Radial Badge -->
-  <img src="https://raw.githubusercontent.com/andrei-surzhan/andrei-surzhan/main/assets/network-70.gif" width="130" alt="Networking 70%" />
-</p>
-
-<p align="center">
-  <!-- Interactive Circular Card (SVG Ring Gauge) -->
-  <a href="https://github.com/Source-Ze">
-    <img src="https://holopin-badges.vercel.app/api/badge/python?percent=80&theme=dark" width="140" alt="Python Circular Gauge" />
-    <img src="https://holopin-badges.vercel.app/api/badge/cpp?percent=85&theme=dark" width="140" alt="C++ Circular Gauge" />
-    <img src="https://holopin-badges.vercel.app/api/badge/postgres?percent=75&theme=dark" width="140" alt="SQL Circular Gauge" />
-    <img src="https://holopin-badges.vercel.app/api/badge/linux?percent=80&theme=dark" width="140" alt="Linux Circular Gauge" />
-  </a>
+  <i>"Control is an illusion. Breaking logic to build impenetrable systems."</i>
 </p>
 
 ---
 
-<h2 align="center">📊 Codeforces & Activity Stats</h2>
+## 💻 Tech Stack & Live Proficiency
 
-<p align="center">
-  <!-- Codeforces Live Stats Card -->
-  <a href="https://codeforces.com/profile/Mr-Anonymous">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mr-Anonymous&theme=tokyonight" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Source-Ze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <!-- Top Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Source-Ze&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=net&theme=dark" width="48" alt="Networking"/><br/>
+      <b>Networking Core</b><br/>
+      <code>Completed 100%</code><br/>
+      <img src="https://geps.dev/progress/100?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66" width="140" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" width="96" alt="Linux"/><br/>
+      <b>Linux Commands</b><br/>
+      <code>Completed 100%</code><br/>
+      <img src="https://geps.dev/progress/100?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66" width="140" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" alt="C++"/><br/>
+      <b>C++ & OOP</b><br/>
+      <code>In Progress 85%</code><br/>
+      <img src="https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00FF66" width="140" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="96" alt="SQL"/><br/>
+      <b>SQL & Relational DB</b><br/>
+      <code>Fundamentals 75%</code><br/>
+      <img src="https://geps.dev/progress/75?dangerColor=4479A1&warningColor=4479A1&successColor=00FF66" width="140" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python"/><br/>
+      <b>Python Basics</b><br/>
+      <code>Fundamentals 70%</code><br/>
+      <img src="https://geps.dev/progress/70?dangerColor=3776AB&warningColor=3776AB&successColor=00FF66" width="140" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Source-Ze" alt="Profile Views" />
-</p>
+## 🛡️ Focus & Systems Architecture
+
+```yaml
+System_Status: Operational
+Security_Focus: Offensive Security & Network Traffic Auditing
+Core_Utilities: Wireshark, VMware, GNS3, Linux Terminal
+Problem_Solving: C++ Algorithms & Data Structures (Codeforces)
