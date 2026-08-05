@@ -9,7 +9,7 @@
   <a href="https://github.com/Anonymouss-Mr">
     <img src="https://komarev.com/ghpvc/?username=Anonymouss-Mr&label=Profile%20Views&color=00FF66&style=for-the-badge" alt="Profile Views Counter" />
   </a>
-  <a href="https://t.me/UP_UO" target="_blank">
+  <a href="https://t.me/V_JIP" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
