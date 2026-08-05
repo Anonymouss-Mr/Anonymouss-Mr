@@ -6,7 +6,10 @@
   <a href="https://codeforces.com/profile/Mr-Anonymous" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Mr--Anonymous-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Handle" />
   </a>
-  <a href="https://t.me/UP_UO" target="_blank">
+  <a href="https://codeforces.com/profile/Mr-Anonymous" target="_blank">
+    <img src="https://img.shields.io/badge/Solved_Problems-CF-00FF66?style=for-the-badge&logo=codeforces&logoColor=black" alt="Solved Problems" />
+  </a>
+  <a href="https://t.me/V_JIP" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
