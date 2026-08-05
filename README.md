@@ -13,77 +13,73 @@
 
 ---
 
-## ⚡ Technical Skills & Interactive Progress
+<h2 align="center">⚡ Completed Stack & Live Progress Bars</h2>
 
 <p align="center">
-  <!-- Python Progress Circle (80%) -->
+  <!-- Python: Circular Icon + Animated Radial Progress -->
   <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" alt="Python" />
   </a>
   <br/>
-  <img src="https://geps.dev/progress/80?dangerColor=3776AB&warningColor=3776AB&successColor=00FF66" alt="Python Progress" width="300" />
+  <img src="https://geps.dev/progress/80?dangerColor=3776AB&warningColor=3776AB&successColor=00FF66" alt="Python 80%" width="320" />
 </p>
 
 <p align="center">
-  <!-- C++ Progress Circle (85%) -->
+  <!-- C++: Circular Icon + Animated Radial Progress -->
   <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" alt="C++" />
   </a>
   <br/>
-  <img src="https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00FF66" alt="C++ Progress" width="300" />
+  <img src="https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00FF66" alt="C++ 85%" width="320" />
 </p>
 
 <p align="center">
-  <!-- SQL / Database Progress Circle (75%) -->
+  <!-- SQL: Circular Icon + Animated Radial Progress -->
   <a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="110" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="120" alt="SQL" />
   </a>
   <br/>
-  <img src="https://geps.dev/progress/75?dangerColor=4479A1&warningColor=4479A1&successColor=00FF66" alt="SQL Progress" width="300" />
+  <img src="https://geps.dev/progress/75?dangerColor=4479A1&warningColor=4479A1&successColor=00FF66" alt="SQL 75%" width="320" />
 </p>
 
 <p align="center">
-  <!-- Linux & Bash Progress Circle (80%) -->
+  <!-- Linux & Bash: Circular Icon + Animated Radial Progress -->
   <a href="https://www.linux.org">
-    <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" width="110" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" width="120" alt="Linux & Bash" />
   </a>
   <br/>
-  <img src="https://geps.dev/progress/80?dangerColor=FCC624&warningColor=FCC624&successColor=00FF66" alt="Linux Progress" width="300" />
+  <img src="https://geps.dev/progress/80?dangerColor=FCC624&warningColor=FCC624&successColor=00FF66" alt="Linux 80%" width="320" />
 </p>
 
 <p align="center">
-  <!-- Networking Progress Circle (70%) -->
+  <!-- Networking: Circular Icon + Animated Radial Progress -->
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=net&theme=dark" width="60" alt="Networking" />
+    <img src="https://skillicons.dev/icons?i=net&theme=dark" width="65" alt="Networking" />
   </a>
   <br/>
-  <img src="https://geps.dev/progress/70?dangerColor=005596&warningColor=005596&successColor=00FF66" alt="Networking Progress" width="300" />
+  <img src="https://geps.dev/progress/70?dangerColor=005596&warningColor=005596&successColor=00FF66" alt="Networking 70%" width="320" />
 </p>
 
 ---
 
-## 🗺️ Completed Skillset & Mindmap
+<h2 align="center">📊 Codeforces & Activity Stats</h2>
 
-```mermaid
-mindmap
-  root((Ahmed Adel))
-    Completed Stack
-      Problem Solving
-        C++
-        Data Structures
-        Algorithms
-      Data Architecture
-        SQL
-        Relational Databases
-      Core Operating Systems
-        Linux Administration
-        Bash Scripting
-        Standard Streams & I/O
-      Network Engineering
-        Network Fundamentals
-        Protocol Analysis
-        Python Automation
-    Current Focus
-      Offensive Security
-        Network Auditing & Traffic Analysis
-        Custom Tools Development
+<p align="center">
+  <!-- Codeforces Live Stats Card -->
+  <a href="https://codeforces.com/profile/Mr-Anonymous">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mr-Anonymous&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Source-Ze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <!-- Top Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Source-Ze&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Source-Ze" alt="Profile Views" />
+</p>
